@@ -1,0 +1,1 @@
+{"version":3,"file":"compat.d.ts","sourceRoot":"","sources":["../../../../projects/ngx-webstorage/src/lib/helpers/compat.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,UAAU,EAAC,MAAM,+BAA+B,CAAC;AAEzD,qBAAa,YAAY;IAExB,MAAM,CAAC,kBAAkB,CAAC,OAAO,EAAE,UAAU,GAAG,OAAO;CAcvD"}
